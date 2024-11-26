@@ -8,7 +8,6 @@ This project is a simple and responsive webpage that displays a QR code and acco
 ## **Features**
 - **Clean Design**: A visually appealing layout with a blue background and a centered white container.
 - **QR Code Display**: Includes a QR code image with text prompting users to scan it for valuable resources.
-- **Responsive Layout**: Adapts seamlessly to various screen sizes, ensuring usability on desktops, tablets, and mobile devices.
 - **Modern Aesthetic**: Rounded edges and subtle shadows give the page a polished look.
 
 ---
@@ -52,7 +51,7 @@ This project ensures a seamless user experience across devices:
 ---
 
 ## **Author**
-Created by **0maa** as part of a front-end development project to demonstrate and practice skills in HTML and CSS.
+Created by **0maa** as part of a front-end development project to demonstrate and practice skills in HTML and CSS for frontendmentor.io.
 
 ---
 
