@@ -22,7 +22,7 @@ This project is a simple and responsive webpage that displays a QR code and acco
 ## **File Structure**
 ```
 /project-folder
-|-- index.html       # Main HTML file
+|-- QRcode.html       # Main HTML file
 |-- qrstyle.css      # CSS file for styling
 |-- image-qr-code.png # QR code image
 ```
