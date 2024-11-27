@@ -60,3 +60,22 @@
     /* box-shadow: 2px 2px 5px blue */
     box-shadow: 0 5px 20px 10px #807d7d8f;
 }
+
+@media (max-width: 600px) {
+    .box-container {
+        width: 90%; /* Shrinks to 90% of the screen width */
+        padding: 15px;
+    }
+
+    .text {
+        font-size: 18px; /* Adjust font size for smaller screens */
+    }
+
+    .cta {
+        font-size: 13px;
+    }
+
+    .qrcode {
+        width: 80%; /* Shrinks the QR code proportionally */
+    }
+}
