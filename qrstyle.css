@@ -43,6 +43,7 @@
     padding-right: 8px;
     padding-top: 10px;
     padding-bottom: 10px;
+    box-shadow: 0 5px 10px 5px #807d7d8f;
 }
 
 .white-bg{
@@ -58,7 +59,7 @@
     height: 100vh;
     margin: 0;
     /* box-shadow: 2px 2px 5px blue */
-    box-shadow: 0 5px 20px 10px #807d7d8f;
+    box-shadow: 10px 10px 30px 5px #afafaf8f;
 }
 
 @media (max-width: 600px) {
